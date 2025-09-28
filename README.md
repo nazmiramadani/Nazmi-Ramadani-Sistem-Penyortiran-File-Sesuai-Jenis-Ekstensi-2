@@ -6,7 +6,7 @@
 
 **Kelas : Sistem Informasi (A)**
 
-**Mini Project 1**
+**Mini Project 2**
 
 # FLOWCHART:
 <img width="2550" height="2200" alt="Minpro 2 drawio(1)" src="https://github.com/user-attachments/assets/04eb5347-7cc8-4a46-b606-1d1e8908e3d2" />
