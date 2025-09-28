@@ -8,7 +8,8 @@
 **Mini Project 1**
 
 # FLOWCHART:
-<img width="1838" height="2182" alt="Mini Project 2 drawio(1)" src="https://github.com/user-attachments/assets/fee5263a-91d2-4226-8e14-c1dfddfb3300" />
+<img width="2550" height="2200" alt="Minpro 2 drawio(1)" src="https://github.com/user-attachments/assets/04eb5347-7cc8-4a46-b606-1d1e8908e3d2" />
+
 
 # CODE:
 <img width="1508" height="985" alt="Screenshot 2025-09-28 202857" src="https://github.com/user-attachments/assets/cb57aba6-4a87-4cc0-a114-42fb4549b82f" />
